@@ -4,10 +4,18 @@ I have three pages in my application as shown below;
 
 ## Login/Register Page:
 
+<p align="center">
+  <img src="https://github.com/frkn2076/ToDoList/blob/master/ToDoList/Arts/image1.PNG" width="50%" height="50%">
+</p>
+
 * Login Button: To login with email and password.
 * Register Button: To register with email and password.
 
 ## To Do Lists Page:
+
+<p align="center">
+  <img src="https://github.com/frkn2076/ToDoList/blob/master/ToDoList/Arts/image2.PNG" width="50%" height="50%">
+</p>
  
 * Back Button: To return Login/Register Page.
 * View/Add Item Button: To view items of selected to-do list and to add item to selected to-do list (to navigate Items Page).
@@ -15,6 +23,10 @@ I have three pages in my application as shown below;
 * Add ToDoList Button: To add to-do list with textbox for name in-line.
 
 ## Items Page:
+
+<p align="center">
+  <img src="https://github.com/frkn2076/ToDoList/blob/master/ToDoList/Arts/image3.PNG" width="50%" height="50%">
+</p>
  
 * Back Button: To return To Do Lists Page.
 * Order ComboBox: To Order items according to selected value from combobox.
